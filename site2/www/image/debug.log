@@ -1,0 +1,13 @@
+[0825/133356.215:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0826/035914.809:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0826/055530.962:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0826/055530.968:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0826/070914.719:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0827/114233.536:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0827/114233.548:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/130143.063:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/130148.087:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/130425.457:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.

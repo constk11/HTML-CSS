@@ -1,0 +1,238 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+}
+
+header {
+    background-image: url(../image/bg1.png);
+    height: 880px;
+    width: 1600px;    
+}
+
+.wrapper {    
+    position: relative;
+    margin: 0 auto;
+    padding-left: 200px;
+    padding-right: 200px;
+    max-width: 1200px;
+    max-height: 880px;
+}
+
+nav {    
+    height: 115px;  
+    display: flex;
+    align-items: center;    
+}
+
+nav>ul {    
+    display: flex;
+    margin: 0 auto;
+    list-style-type: none;            
+    margin-left: 294px;
+}
+
+nav>ul>li {        
+    padding-right: 11px;    
+    padding-left: 16px;
+    margin-right: 21px;
+}
+
+nav>ul>li>a {
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.border-item {
+    box-sizing: border-box;
+    margin-top: -7px;
+    margin-left: 530px;
+    border-top: 6px solid #11749e;
+    width: 6%;     
+}
+
+.border-nav {
+    border-top: 2px solid #767575;
+    margin: 0 auto;
+    max-width: 1600px;    
+}
+
+.logo1 {
+    width: 66px;
+    height: 66px;
+    background-color: #c5c4c3;
+    position: absolute;
+    margin-left: 26px;
+    z-index: 0;
+}
+
+.logo2 {
+    box-sizing: border-box;
+    width: 66px;
+    height: 66px;
+    background-color: #11749e;
+    position: absolute;
+    color: #f5f5f5;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 15px;
+    margin-top: -8px;
+    padding-top: 17px;
+}
+
+.page-one {
+    box-sizing: border-box;    
+}
+
+.page-one h1 {
+    font-size: 150px;
+    color: #f5f5f5;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 280px;
+    margin-bottom: 20px;
+}
+
+.description {
+    color: #11749e;
+    font-size: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    margin: 0 auto;
+    margin-bottom: 120px;
+}
+
+p.btn {
+    margin: 0 auto;
+    text-align: center;
+    color: #e3e3e3;
+    font-size: 13px;
+}
+
+.ellipse2 {
+    background-image: url(../image/ellipse2.png);
+    background-repeat: no-repeat;        
+    width: 65px;
+    height: 65px;    
+    margin: 0 auto;
+    margin-top: 23px;
+    margin-left: calc(50% - 32.5);
+    cursor: pointer;
+}
+
+.part-one {    
+    width: 10px;
+    height: 4px;
+    transform: rotate(45deg);
+    background-color: #f5f5f5;
+    margin-top: -35px;
+    margin-left: calc(50% - 8px);
+}
+
+.part-two {    
+    width: 10px;
+    height: 4px;
+    transform: rotate(-45deg);
+    background-color: #f5f5f5;
+    margin-top: -4px;
+    margin-left: calc(50% - 3px);
+}
+
+article.one {
+    margin: 0 auto;
+    float: left;
+    box-sizing: border-box;
+    width: 1600px;
+    height: 739px;
+    background-color: #11749e;
+    padding-top: 108px;
+}
+
+article.one h2 {
+    text-align: center;
+    color: #3c8daf;
+    font-size: 250px;
+    margin: 0 auto;
+}
+
+article.one h4 {
+    text-align: center;
+    color: #fff;
+    font-size: 37px;
+    text-transform: uppercase;
+    margin-top: -160px;
+    letter-spacing: 6px;
+}
+
+article.one ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding-top: 70px;
+}
+
+article.one ul > li {
+    position: relative;
+    text-align: center;
+}
+
+article.one ul > li > img.ellipse1 {
+    margin-left: -45px;
+}
+
+article.one ul > li > img.icon {    
+    padding-bottom: 45px;
+    margin-left: -90px;
+}
+
+article.one ul > li > h5 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+article.one ul > li > p {
+    font-size: 15px;
+    color: #fff;   
+}
+  
+article.two {
+    float: left;
+    margin: 0 auto;
+}
+
+.page-1 {
+    width: 800px;
+    height: 445px;
+    background-color: #222222;
+    margin-left: -200px;    
+}
+
+.date {
+    margin: 0 auto;
+    padding-left: 215px;
+    padding-top: 84px;
+    color: #c4c4c4;
+}
+
+.field {
+    float: left;
+    color: #c4c4c4;
+}
+
+article.two img {
+    margin-left: 800px;
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+.form {
+    background: #767575;
+}
+
+.verified {
+    font-weight: bold;
+}
